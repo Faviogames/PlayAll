@@ -1,5 +1,5 @@
 <dir>
 <name>All Movies</name>
-<link>https://playallnl.000webhostapp.com/MOVIES.xml</link>
+<link>https://raw.githubusercontent.com/Faviogames/PlayAll/master/movies.xml</link>
 <thumbnail>http://funkyimg.com/i/2DatV.png</thumbnail>
 </dir>
