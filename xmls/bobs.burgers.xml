@@ -1,221 +1,120 @@
-<item>
-	<title>[COLOR=white]Human Flesh[/COLOR]</title>
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
+	<content>season</content>
 	<season>1</season>
-	<episode>1</episode>
+	<year>2011</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/3DeAa3L77itYEIimE5B89vQ6MQt.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dbWKCnL9v2QJ4jqRpMODj9e6mdy.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Crawl Space[/COLOR]</title>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>2</episode>
+	<content>season</content>
+	<season>2</season>
+	<year>2012</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/sLBdzc5vhkpzaC2zbliCDfhy4sC.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kBSg6TCM6lL06iT8uMc9cQ8afQE.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Sacred Cow[/COLOR]</title>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>3</episode>
+	<content>season</content>
+	<season>3</season>
+	<year>2012</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/sjga1n3XWs4pyyMFhO7MFpFJtce.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2xPloPZD7DvlPLMRTdsQi67jbLp.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Sexy Dance Fighting[/COLOR]</title>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 4[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>4</episode>
+	<content>season</content>
+	<season>4</season>
+	<year>2013</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/zUgLtUGSC4i0kHKZ64nKn2UIE5R.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ammlPrLGrNPYKt9vvO6ic1waZYf.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Hamburger Dinner Theater[/COLOR]</title>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 5[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>5</episode>
+	<content>season</content>
+	<season>5</season>
+	<year>2014</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/ujbIFLc0OUd7ksHHUfeXIH6qUX8.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oNlOSQfHTNjBw6uZJKpBAjuNN01.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Sheesh! Cab, Bob?[/COLOR]</title>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 6[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>6</episode>
+	<content>season</content>
+	<season>6</season>
+	<year>2015</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/puCe5pkmexktefy94dIHDokrTna.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bsmTDQG0aJQEPUFxwEcMMf5xXV.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Bed & Breakfast[/COLOR]</title>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 7[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>7</episode>
+	<content>season</content>
+	<season>7</season>
+	<year>2016</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/o2MfRrFld8DPPpmlX5MFpCfpPd.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uGQrBoq8RAOJnpGa8SqlsTYkzPH.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Art Crawl[/COLOR]</title>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 8[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>8</episode>
+	<content>season</content>
+	<season>8</season>
+	<year>2017</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/pOyIPupKtnOcQyCoQQokju10a29.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sc5VC7plpklDL2PTDjcKjrrAmKR.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Spaghetti Western and Meatballs[/COLOR]</title>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 9[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>9</episode>
+	<content>season</content>
+	<season>9</season>
+	<year>2018</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/tBtty7fSOcio7H1rEoASGXCuFJ4.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eMKlKKHtVYI8a12sKyo5gfo8aZl.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Burger War[/COLOR]</title>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 10[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>10</episode>
+	<content>season</content>
+	<season>10</season>
+	<year>2019</year>
 	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/5MAzihyDHe9bo1ac4gQiwZKstNn.jpg</thumbnail>
+	<link></link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/joPhJJblNtFDOpp6zQlx0xJWsmM.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Weekend at Mort's[/COLOR]</title>
-	<meta>
-	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>11</episode>
-	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/5lHC32qlp43zlhlU65YSq3AzIft.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Lobsterfest[/COLOR]</title>
-	<meta>
-	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>12</episode>
-	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/wKjG69AF28TlLsrCVcx2x00MIEP.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Torpedo[/COLOR]</title>
-	<meta>
-	<imdb>tt1561755</imdb>
-	<content>episode</content>
-	<tvshowtitle>Bob s Burgers</tvshowtitle>
-	<year>2011</year>
-	<season>1</season>
-	<episode>13</episode>
-	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/jd61dITSP4Njqyl9lSsMl3NssDD.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
-</item>
+</dir>
