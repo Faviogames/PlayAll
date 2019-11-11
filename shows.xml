@@ -1,12 +1,12 @@
 <dir>
-	<title>[COLOR=white]Bob s Burgers[/COLOR]</title>
+	<title>Bob s Burgers</title>
 	<meta>
 	<imdb>tt1561755</imdb>
 	<content>tv</content>
 	<title>Bobs Burgers</title>
 	<year>2011</year>
 	</meta>
-	<link>https://github.com/Faviogames/PlayAll/blob/master/xmls/tt1561755/main.xml</link>
+	<link>https://raw.githubusercontent.com/Faviogames/PlayAll/master/xmls/tt1561755/main.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/joPhJJblNtFDOpp6zQlx0xJWsmM.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
 </dir>
