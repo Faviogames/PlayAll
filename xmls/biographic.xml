@@ -18,7 +18,6 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/93xA62uLd5CwMOAs37eQ7vPc1iV.jpg</fanart>
 </item>
 
-
 <item>
 	<title>[COLOR=white]I, Tonya[/COLOR]</title>
 	<genre>Drama, Comedia, Biográfico, Deporte, Notmylinks</genre>
@@ -36,6 +35,26 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/jK3EAFk3GdOaQfUDCOiTujzMpwH.jpg</fanart>
 </item>
 
+<item>
+	<title>[COLOR=white]Battle of the Sexes[/COLOR]</title>
+	<genre>Drama. Comedia | Homosexualidad. Biográfico.</genre>
+	<meta>
+	<imdb>tt4622512</imdb>
+	<content>movie</content>
+	<title>Battle of the Sexes</title>
+	<year>2017</year>
+	</meta>
+	<link>
+	<sublink>https://www.youtube.com/watch?v=o5ykcuAS1F4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink>https://uptobox.com/gno2cegif91x (Play Movie)</sublink>
+	<sublink> (Play Movie Link 2)</sublink>
+	<sublink> (Play Movie Link 3)</sublink>
+	<sublink> (Play Movie Link 4)</sublink>
+	<sublink> (Play Movie Link 5)</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fWy0A3VojTCb0S2MKtEJjpquubF.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wCHJuJwEfOrrykgDas8T4m79Bzs.jpg</fanart>
+</item>
 
 <item>
 	<title>[COLOR=white]The Disaster Artist[/COLOR]</title>
@@ -53,7 +72,6 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/jj84nF5vYRD0HUTowBKcrKk8hZP.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/cCIWU5b4izIpLeGQnQNW7iTtIDN.jpg</fanart>
 </item>
-
 
 <item>
 	<title>[COLOR=white]Cobain: Montage of Heck[/COLOR]</title>
@@ -88,4 +106,24 @@
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/sngOKT4Eg0rpUnmodzlAhbLOIGO.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/4tGGDGUFcZNvjkTqVKoDnFqKbar.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR=white]The Wolf of Wall Street[/COLOR]</title>
+	<meta>
+	<imdb>tt0993846</imdb>
+	<content>movie</content>
+	<title>The Wolf of Wall Street</title>
+	<year>2013</year>
+	</meta>
+	<link>
+	<sublink>https://www.youtube.com/watch?v=FzehIddnaWU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink> (Play Movie Link 1)</sublink>
+	<sublink> (Play Movie Link 2)</sublink>
+	<sublink> (Play Movie Link 3)</sublink>
+	<sublink> (Play Movie Link 4)</sublink>
+	<sublink> (Play Movie Link 5)</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vK1o5rZGqxyovfIhZyMELhk03wO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/rP36Rx5RQh0rmH2ynEIaG8DxbV2.jpg</fanart>
 </item>
