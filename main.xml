@@ -1,13 +1,19 @@
 <dir>
-<name>All Movies</name>
-<link>https://raw.githubusercontent.com/Faviogames/PlayAll/master/movies.xml</link>
+<name>Releases</name>
+<link>https://raw.githubusercontent.com/Faviogames/PlayAll/master/xmls/movies.xml</link>
 <thumbnail>http://funkyimg.com/i/2DatV.png</thumbnail>
 </dir>
 
+<dir>
+<name>See by genre</name>
+<link>https://raw.githubusercontent.com/Faviogames/PlayAll/master/xmls/genre.xml</link>
+<thumbnail>http://funkyimg.com/i/2DatV.png</thumbnail>
+</dir>
 
 <dir>
 <name>TV Shows</name>
 <link>https://raw.githubusercontent.com/Faviogames/PlayAll/master/shows.xml</link>
 <thumbnail>http://funkyimg.com/i/2DatV.png</thumbnail>
 </dir>
+
 
