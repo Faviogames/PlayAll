@@ -1,5 +1,5 @@
 <dir>
-	<title>Bobs Burgers</title>
+	<title>[COLOR=white]Bobs Burgers[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
 	<content>tv</content>
@@ -10,3 +10,17 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/joPhJJblNtFDOpp6zQlx0xJWsmM.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg</fanart>
 </dir>
+
+<dir>
+	<title>[COLOR=white]South Park[/COLOR]</title>
+	<meta>
+	<imdb>tt0121955</imdb>
+	<content>tv</content>
+	<title>South Park</title>
+	<year>1997</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/Faviogames/PlayAll/master/xmls/tt0121955/main.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/v9zc0cZpy5aPSfAy6Tgb6I1zWgV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/mSDKNVvDfitFE6Fb6fSSl5DQmgS.jpg</fanart>
+</dir>
+
