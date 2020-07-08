@@ -4,17 +4,20 @@
 <thumbnail>http://funkyimg.com/i/2DatV.png</thumbnail>
 </dir>
 
+
 <dir>
 <name>Sort by genre</name>
 <link>https://raw.githubusercontent.com/Faviogames/PlayAll/master/xmls/genre.xml</link>
 <thumbnail>http://funkyimg.com/i/2DatV.png</thumbnail>
 </dir>
 
+
 <dir>
 <name>TV Shows</name>
 <link>https://raw.githubusercontent.com/Faviogames/PlayAll/master/shows.xml</link>
 <thumbnail>http://funkyimg.com/i/2DatV.png</thumbnail>
 </dir>
+
 
 <dir>
 <name>TeleNovelas</name>
